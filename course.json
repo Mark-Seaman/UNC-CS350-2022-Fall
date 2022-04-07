@@ -1,0 +1,20 @@
+{
+    "site_title": "UNC CS 350",
+    "site_subtitle": "Software Engineering",
+    "site_url": "/course/cs350",
+    "course": "bacs350",
+    "course_title": "CS 350 - Fall 2022",
+    "instructor": "Mark Seaman",
+    "organization": "University of Northern Colorado",
+    "page_title": "Practical Software Engineering Skills",
+    "logo": "/static/images/course/cs350/Bear.png",
+    "cover": "/static/images/course/cs350/treetops.800.jpg",
+    "icon": "https://shrinking-world.com/static/favicon.ico",
+    "images": "/static/images/course/cs350/lesson",
+    "image_path": "/static/images/course/cs350/treetops.800.jpg",
+    "css": "/static/css/unc.css",
+    "github": "https://github.com/Mark-Seaman/UNC-CS350-2022-Fall",
+    "week": 1,
+    "week_label": "Week ",
+    "num_weeks": 3
+}
