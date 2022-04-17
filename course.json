@@ -2,7 +2,7 @@
     "site_title": "UNC CS 350",
     "site_subtitle": "Software Engineering",
     "site_url": "/course/cs350",
-    "course": "bacs350",
+    "course": "cs350",
     "course_title": "CS 350 - Fall 2022",
     "instructor": "Mark Seaman",
     "organization": "University of Northern Colorado",
@@ -15,6 +15,7 @@
     "css": "/static/css/unc.css",
     "github": "https://github.com/Mark-Seaman/UNC-CS350-2022-Fall",
     "week": 1,
-    "week_label": "Week ",
-    "num_weeks": 3
+    "week_label": "Project Milestone ",
+    "num_weeks": 7,
+    "periods_per_week": 4
 }
